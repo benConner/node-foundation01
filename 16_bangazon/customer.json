@@ -1,0 +1,185 @@
+{
+    "customer":[
+        {
+          "customer_id": 1,
+          "first_name": "Joshua",
+          "last_name": "Warren",
+          "address": "57 Swallow Court",
+          "city": "Pulau Pinang",
+          "state": "Pulau Pinang",
+          "postal_code": "37205-727",
+          "phone_number": "60-(526447-6606"
+        }, {
+          "customer_id": 2,
+          "first_name": "Anna",
+          "last_name": "Hill",
+          "address": "54975 Artisan Avenue",
+          "city": "Stockholm",
+          "state": "Stockholm",
+          "postal_code": "51079-024",
+          "phone_number": "46-(395700-3815"
+        }, {
+          "customer_id": 3,
+          "first_name": "Amanda",
+          "last_name": "Smith",
+          "address": "414 Myrtle Place",
+          "city": "Macapá",
+          "state": null,
+          "postal_code": "65044-3249",
+          "phone_number": "55-(588799-8085"
+        }, {
+          "customer_id": 4,
+          "first_name": "Michael",
+          "last_name": "Washington",
+          "address": "1 Pleasure Center",
+          "city": "Wat Sing",
+          "state": null,
+          "postal_code": "54868-6052",
+          "phone_number": "66-(875253-1718"
+        }, {
+          "customer_id": 5,
+          "first_name": "Charles",
+          "last_name": "Meyer",
+          "address": "00237 Onsgard Way",
+          "city": "Ulaandel",
+          "state": null,
+          "postal_code": "68472-127",
+          "phone_number": "976-(221940-5149"
+        }, {
+          "customer_id": 6,
+          "first_name": "Virginia",
+          "last_name": "Wells",
+          "address": "9808 Moulton Plaza",
+          "city": "Rivera",
+          "state": null,
+          "postal_code": "41190-871",
+          "phone_number": "598-(209490-5629"
+        }, {
+          "customer_id": 7,
+          "first_name": "Justin",
+          "last_name": "Murphy",
+          "address": "0 Maryland Pass",
+          "city": "Mosina",
+          "state": null,
+          "postal_code": "48951-1168",
+          "phone_number": "48-(483371-9613"
+        }, {
+          "customer_id": 8,
+          "first_name": "Martha",
+          "last_name": "Banks",
+          "address": "1 Harper Center",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "postal_code": "68828-059",
+          "phone_number": "61-(533294-9309"
+        }, {
+          "customer_id": 9,
+          "first_name": "Wayne",
+          "last_name": "Walker",
+          "address": "60427 Toban Terrace",
+          "city": "Bojonglarang",
+          "state": null,
+          "postal_code": "49999-277",
+          "phone_number": "62-(667268-9750"
+        }, {
+          "customer_id": 10,
+          "first_name": "Kelly",
+          "last_name": "Woods",
+          "address": "20 Service Street",
+          "city": "Panganiban",
+          "state": null,
+          "postal_code": "0078-0499",
+          "phone_number": "63-(910929-7487"
+        }, {
+          "customer_id": 11,
+          "first_name": "Janet",
+          "last_name": "Flores",
+          "address": "234 Blaine Place",
+          "city": "Pukekohe East",
+          "state": null,
+          "postal_code": "36987-2859",
+          "phone_number": "64-(500780-4847"
+        }, {
+          "customer_id": 12,
+          "first_name": "Teresa",
+          "last_name": "Ford",
+          "address": "0023 Sullivan Center",
+          "city": "Algés",
+          "state": "Lisboa",
+          "postal_code": "50181-0029",
+          "phone_number": "351-(856307-5604"
+        }, {
+          "customer_id": 13,
+          "first_name": "Rachel",
+          "last_name": "Dunn",
+          "address": "796 Lakewood Alley",
+          "city": "Monastyryshche",
+          "state": null,
+          "postal_code": "57344-101",
+          "phone_number": "380-(941550-9415"
+        }, {
+          "customer_id": 14,
+          "first_name": "Lisa",
+          "last_name": "Moreno",
+          "address": "09 Mayfield Crossing",
+          "city": "Shatou",
+          "state": null,
+          "postal_code": "51672-1316",
+          "phone_number": "86-(866773-1290"
+        }, {
+          "customer_id": 15,
+          "first_name": "Samuel",
+          "last_name": "Sanders",
+          "address": "9875 1st Drive",
+          "city": "T’et’ri Tsqaro",
+          "state": null,
+          "postal_code": "66715-9830",
+          "phone_number": "995-(806635-2826"
+        }, {
+          "customer_id": 16,
+          "first_name": "Alan",
+          "last_name": "Morgan",
+          "address": "97 Texas Plaza",
+          "city": "San Pedro",
+          "state": null,
+          "postal_code": "63941-249",
+          "phone_number": "506-(568896-5010"
+        }, {
+          "customer_id": 17,
+          "first_name": "Jane",
+          "last_name": "Lopez",
+          "address": "23 Mockingbird Plaza",
+          "city": "Shnogh",
+          "state": null,
+          "postal_code": "66780-121",
+          "phone_number": "374-(502653-4588"
+        }, {
+          "customer_id": 18,
+          "first_name": "Steve",
+          "last_name": "Garrett",
+          "address": "424 West Alley",
+          "city": "Cabinda",
+          "state": null,
+          "postal_code": "68258-6034",
+          "phone_number": "244-(221359-8295"
+        }, {
+          "customer_id": 19,
+          "first_name": "Helen",
+          "last_name": "Allen",
+          "address": "469 Holy Cross Point",
+          "city": "Halmstad",
+          "state": "Halland",
+          "postal_code": "54622-104",
+          "phone_number": "46-(448479-0341"
+        }, {
+          "customer_id": 20,
+          "first_name": "Craig",
+          "last_name": "Daniels",
+          "address": "085 Longview Way",
+          "city": "Bacalan",
+          "state": null,
+          "postal_code": "33261-130",
+          "phone_number": "63-(236472-0999"
+        }
+    ]
+}

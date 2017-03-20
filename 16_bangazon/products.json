@@ -1,0 +1,81 @@
+{
+    "products":[
+        {
+          "product_id": 1,
+          "product_name": "Ponderosa Pine",
+          "payment_price": "$57.95"
+        }, {
+          "product_id": 2,
+          "product_name": "FRESH JUICE E",
+          "payment_price": "$72.76"
+        }, {
+          "product_id": 3,
+          "product_name": "Multivitamin with fluoride",
+          "payment_price": "$23.10"
+        }, {
+          "product_id": 4,
+          "product_name": "cetylpyridinium chloride",
+          "payment_price": "$50.56"
+        }, {
+          "product_id": 5,
+          "product_name": "Healthy Accents Famotidine",
+          "payment_price": "$87.24"
+        }, {
+          "product_id": 6,
+          "product_name": "Glucagon",
+          "payment_price": "$97.95"
+        }, {
+          "product_id": 7,
+          "product_name": "Health Sense Infants Ibuprofen",
+          "payment_price": "$16.55"
+        }, {
+          "product_id": 8,
+          "product_name": "Epinastine Hydrochloride",
+          "payment_price": "$34.67"
+        }, {
+          "product_id": 9,
+          "product_name": "lisinopril",
+          "payment_price": "$65.29"
+        }, {
+          "product_id": 10,
+          "product_name": "Ranitidine Hydrochloride",
+          "payment_price": "$51.00"
+        }, {
+          "product_id": 11,
+          "product_name": "OXYGEN",
+          "payment_price": "$29.94"
+        }, {
+          "product_id": 12,
+          "product_name": "Gentamicin Sulfate",
+          "payment_price": "$73.83"
+        }, {
+          "product_id": 13,
+          "product_name": "Luminous Pure Aura CC",
+          "payment_price": "$27.10"
+        }, {
+          "product_id": 14,
+          "product_name": "METHOCARBAMOL",
+          "payment_price": "$17.72"
+        }, {
+          "product_id": 15,
+          "product_name": "Anti-Bacterial Hand",
+          "payment_price": "$72.27"
+        }, {
+          "product_id": 16,
+          "product_name": "Torsemide",
+          "payment_price": "$16.92"
+        }, {
+          "product_id": 17,
+          "product_name": "Cesamet",
+          "payment_price": "$36.33"
+        }, {
+          "product_id": 18,
+          "product_name": "Prochlorperazine Maleate",
+          "payment_price": "$29.41"
+        }, {
+          "product_id": 19,
+          "product_name": "Glipizide",
+          "payment_price": "$76.73"
+        }
+    ]
+}
